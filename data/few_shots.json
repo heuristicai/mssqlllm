@@ -1,0 +1,6 @@
+[
+    {
+        "Question": "How many customers do we have?",
+        "SQLQuery": "SELECT COUNT(*) FROM SalesLT.Customer"
+    }
+]

@@ -1,0 +1,9 @@
+[[pages]]
+path = "main.py"
+name = "Home"
+icon = ":basketball:"
+
+[[pages]]
+path = "pages/few_shot_training.py"
+name = "Training"
+icon = ":books:"

@@ -1,0 +1,15 @@
+chromadb
+langchain
+langchain_community
+langchain_experimental
+langchain_openai
+pyodbc
+sqlalchemy
+python-dotenv
+sentence_transformers
+streamlit
+st-pages
+watchdog
+langchain-google-genai
+azure-storage-blob
+azure-identity
